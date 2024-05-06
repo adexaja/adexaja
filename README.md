@@ -1,14 +1,23 @@
-- 👋 Hi, I’m Rezki Nasrullah
-- 👀 I’m interested in Node Js, Express Js, React Js, Laravel, Next Js
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React Native Project
-- 📫 Reach me on email : rezkinasrullah22@gmail.com
+# Hi, I'm Rezki Nasrullah! 👋
+
+Experienced backend developer with 7 years of programming expertise utilizing the Laravel framework. Strong critical thinking skills and a track record of success in developing and maintaining robust and efficient systems. Dedicated and passionate about expanding my knowledge and skills. Seeking to leverage my skills and experience in a challenging new role as a backend developer..
+
+![adexaja's Stats](https://github-readme-stats.vercel.app/api?username=adexaja&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
 
 
 
-<!---
-![Rezki Nasrullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=adexaja&show_icons=true&theme=radical)
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=go,js,nuxtjs,laravel,react,rust)](https://skillicons.dev)
 
-adexaja/adexaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 Currently Exploring
+
+ ## 🏆 Achievements
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/rezkinasrullah)
+- Read more of my articles on [rezki.web.id](https://rezki.web.id)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
