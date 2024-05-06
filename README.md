@@ -1,19 +1,17 @@
 # Hi, I'm Rezki Nasrullah! 👋
 
-Experienced backend developer with 7 years of programming expertise utilizing the Laravel framework. Strong critical thinking skills and a track record of success in developing and maintaining robust and efficient systems. Dedicated and passionate about expanding my knowledge and skills. Seeking to leverage my skills and experience in a challenging new role as a backend developer..
+Experienced backend developer with 7 years of programming expertise utilizing the Laravel framework. Strong critical thinking skills and a track record of success in developing and maintaining robust and efficient systems. Dedicated and passionate about expanding my knowledge and skills. Seeking to leverage my skills and experience in a challenging new role as a backend developer.
 
 ![adexaja's Stats](https://github-readme-stats.vercel.app/api?username=adexaja&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## 🚀 About Me
-
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=go,js,nuxtjs,laravel,react,rust)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-
- ## 🏆 Achievements
+  - 🚀 Learning Rust Web Development
+  - Learning NextJS with Shadcn UI
+  - Learning about Go Channel
 
 ## 📬 Get in Touch
 
