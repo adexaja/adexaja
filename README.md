@@ -17,5 +17,6 @@ Experienced backend developer with 7 years of programming expertise utilizing th
 
 - Connect with me on [Twitter](https://twitter.com/rezkinasrullah)
 - Read more of my articles on [rezki.web.id](https://rezki.web.id)
+- See my boot.dev profile on [boot.dev](https://www.boot.dev/u/rezkinasrullah)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
