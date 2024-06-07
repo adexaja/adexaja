@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer, who love to learn new things
 -------------------------------------------------
 
-My name is Rezki Nasrullah, I'm a skilled backend developer with over 7 years of experience using Laravel. I'm dedicated to continuous learning and eager to take on new challenges in a backend developer role.
+My name is Rezki Nasrullah, I'm a skilled backend developer with over 8 years of experience using Laravel and Go. I'm dedicated to continuous learning and eager to take on new challenges in a backend developer role.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [Rezki](http://rezki.web.id)
