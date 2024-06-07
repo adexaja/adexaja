@@ -10,7 +10,7 @@ My name is Rezki Nasrullah, I'm a skilled backend developer with over 8 years of
 * 🖥️  See my portfolio at [Rezki](http://rezki.web.id)
 * ✉️  You can contact me at [rezkinasrullah22@gmail.com](mailto:rezkinasrullah22@gmail.com)
 * 🚀  I'm currently working on [BeliKarcis](http://BeliKarcis.com)
-* 🧠  I'm learning System Architecture
+* 🧠  I'm learning Rust, Kubernetes and PostgreSQL
 * 🤝  I'm open to collaborating on backend projects
 
 <a href="https://www.github.com/adexaja" target="_blank" rel="noreferrer"><img
