@@ -43,4 +43,4 @@ src="https://img.shields.io/twitter/follow/rezkinasrullah?logo=twitter&style=for
 <a href="https://www.buymeacoffee.com/rezkinasrullah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 ### Waka Time
-<figure><embed src="https://wakatime.com/share/@rezkinasrullah/fdfe6c7d-362c-4ddb-aa0d-14c8847a240e.svg"></embed></figure>
+<img src="https://wakatime.com/share/@rezkinasrullah/fdfe6c7d-362c-4ddb-aa0d-14c8847a240e.svg" />
