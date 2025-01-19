@@ -7,7 +7,7 @@ Fullstack Developer, who love to learn new things
 My name is Rezki Nasrullah, I'm a skilled backend developer with over 8 years of experience using Laravel and Go. I'm dedicated to continuous learning and eager to take on new challenges in a backend developer role.
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Rezki](http://rezki.web.id)
+* 🖥️  See my portfolio at [rezki.dev](http://rezki.dev)
 * ✉️  You can contact me at [rezkinasrullah22@gmail.com](mailto:rezkinasrullah22@gmail.com)
 * 🚀  I'm currently working on [BeliKarcis](http://BeliKarcis.com)
 * 🧠  I'm learning AngularJS & Rust
