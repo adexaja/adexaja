@@ -9,8 +9,8 @@ My name is Rezki Nasrullah, I'm a skilled backend developer with over 8 years of
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [rezki.dev](http://rezki.dev)
 * ✉️  You can contact me at [rezkinasrullah22@gmail.com](mailto:rezkinasrullah22@gmail.com)
-* 🚀  I'm currently working on [BeliKarcis](http://BeliKarcis.com)
-* 🧠  I'm learning AngularJS & Rust
+* 🚀  I'm currently working on [Mitsubishi SalesForce ID](https://play.google.com/store/apps/details?id=id.com.mmksi.salesforce&hl=id)
+* 🧠  I'm learning Rust & Zig
 * 🤝  I'm open to collaborating on backend projects
 
 <a href="https://www.github.com/adexaja" target="_blank" rel="noreferrer"><img
