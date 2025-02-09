@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rezki Nasrullah
 =======================================================================================================================================
 
-Fullstack Developer, who love to learn new things
+Backend Developer driven by a passion for creating impactful software.
 -------------------------------------------------
 
-My name is Rezki Nasrullah, I'm a skilled backend developer with over 8 years of experience using Laravel and Go. I'm dedicated to continuous learning and eager to take on new challenges in a backend developer role.
+I'm Rezki, a backend engineer based in Jakarta who believes code can tell beautiful stories. I specialize in crafting high-performance systems that scale, but my true passion lies in exploring innovative ways to solve real-world problems through elegant engineering. My Tech Stack are Go, Laravel (PHP), .Net, and Javascript.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [rezki.dev](http://rezki.dev)
