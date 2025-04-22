@@ -9,7 +9,7 @@ I'm Rezki, a backend engineer based in Jakarta who believes code can tell beauti
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [rezki.dev](http://rezki.dev)
 * ✉️  You can contact me at [rezkinasrullah22@gmail.com](mailto:rezkinasrullah22@gmail.com)
-* 🚀  I'm currently working on [Mitsubishi SalesForce ID](https://play.google.com/store/apps/details?id=id.com.mmksi.salesforce&hl=id)
+* 🚀  I'm currently working on [D3Labs](https://d3labs.io)
 * 🧠  I'm learning Rust & Zig
 * 🤝  I'm open to collaborating on backend projects
 
