@@ -1,43 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rezki Nasrullah
-=======================================================================================================================================
+<h1 align="center">Hi 👋, I'm Rezki</h1>
+<h3 align="center">A passionate backend developer from Jakarta, Indonesia</h3>
 
-Backend Developer driven by a passion for creating impactful software.
--------------------------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adexaja&label=Profile%20views&color=0e75b6&style=flat" alt="adexaja" /> </p>
 
-I'm Rezki, a backend engineer based in Jakarta who believes code can tell beautiful stories. I specialize in crafting high-performance systems that scale, but my true passion lies in exploring innovative ways to solve real-world problems through elegant engineering. My Tech Stack are Go, Laravel (PHP), .Net, and Javascript.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adexaja" alt="adexaja" /></a> </p>
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [rezki.dev](http://rezki.dev)
-* ✉️  You can contact me at [rezkinasrullah22@gmail.com](mailto:rezkinasrullah22@gmail.com)
-* 🚀  I'm currently working on [D3Labs](https://d3labs.io)
-* 🧠  I'm learning Rust & Zig
-* 🤝  I'm open to collaborating on backend projects
+- 🔭 I’m currently working on [PRUV](https://pruv.finance)
 
-<a href="https://www.github.com/adexaja" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/adexaja?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/rezkinasrullah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/rezkinasrullah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+- 🌱 I’m currently learning **Rust (Ntex), Zig**
 
-### Skills
+- 👨‍💻 All of my projects are available at [https://rezki.dev](https://rezki.dev)
 
+- 💬 Ask me about **Backend, Go, .NET**
 
+- 📫 How to reach me **me@rezki.dev**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adexaja&show_icons=true&locale=en&layout=compact" alt="adexaja" /></p>
 
-<p align="left"> <a href="https://www.dev.to/rezkinasrullah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.github.com/adexaja" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rezkinasrullah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>  <a href="https://www.x.com/rezkinasrullah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/adexaja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adexaja&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adexaja&show_icons=true&locale=en" alt="adexaja" /></p>
 
 ### Waka Time
 <img src="https://wakatime.com/share/@rezkinasrullah/fdfe6c7d-362c-4ddb-aa0d-14c8847a240e.svg" />
