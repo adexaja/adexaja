@@ -18,4 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=adexaja&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### Waka Time
+<img src="https://wakatime.com/share/@rezkinasrullah/fdfe6c7d-362c-4ddb-aa0d-14c8847a240e.svg" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
