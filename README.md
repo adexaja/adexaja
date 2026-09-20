@@ -1,20 +1,62 @@
-# 💫 About Me:
-🔭 I’m currently working on [PRUV](https://pruv.finance)<br>🌱 I’m currently learning Rust (Ntex), Zig<br>👨‍💻 All of my projects are available at https://rezki.dev<br>💬 Ask me about Backend, Go, .NET, NestJS<br><br>
+# Hi, I'm Rezki 👋
 
+I'm a **Backend Engineer** from Indonesia who enjoys building reliable systems, developer tools, and occasionally things that probably didn't need to become side projects.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat&logo=zig&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adexaja&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adexaja&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adexaja&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I've been writing software for **10+ years**, mostly around backend engineering. These days I work primarily with **TypeScript, Go, and .NET**, while slowly getting deeper into **Rust**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adexaja&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Currently, a lot of my work revolves around **blockchain infrastructure and RWA tokenization**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### What I'm working on
+
+* ⛓️ Building backend & infrastructure for a **blockchain / RWA tokenization platform**
+* 📦 Building and maintaining **open-source projects**
+* 🦀 Learning **Rust** by actually building things with it
+* 🤖 Exploring how **AI agents** can fit into real developer workflows
+* 🏗️ Thinking probably too much about **system design, reliability, and architecture**
+
+### Open source
+
+I like working on infrastructure and developer tooling, especially projects where I can learn something outside my usual stack.
+
+Some things you'll find around my GitHub:
+
+* **Shoebox** - a lightweight message broker I'm building
+* **Luvus integrations** - experimenting with multi-agent developer workflows
+* Contributions to other open-source projects whenever I find an interesting problem to solve
+
+I'm always interested in collaborating on **Go, TypeScript, Rust, infrastructure, or developer-tooling projects**.
+
+### Things I work with
+
+**Languages**
+
+`TypeScript` · `Go` · `C#` · `PHP` · `Rust`
+
+**Backend**
+
+`NestJS` · `.NET` · `Laravel` · `Node.js`
+
+**Data & Infrastructure**
+
+`PostgreSQL` · `MySQL` · `Redis` · `Docker` · `GitHub Actions`
+
+**Currently exploring**
+
+`Rust` · `Blockchain` · `ERC-4626` · `AI Agents`
+
+### I like talking about
+
+Backend architecture, distributed systems, API design, performance, developer tooling, and the occasional discussion about whether something really needs to be a microservice.
+
+If you're building something interesting and think I can help, feel free to reach out.
+
+### Find me elsewhere
+
+🌐 [rezki.dev](https://rezki.dev)
+💼 [LinkedIn](https://linkedin.com/in/rezkinasrullah)
+🐦 [Twitter / X](https://twitter.com/rezkinasrullah)
+✉️ **[me@rezki.dev](mailto:me@rezki.dev)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adexaja&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+> I build things, break them, figure out why they broke, and occasionally write about it.
