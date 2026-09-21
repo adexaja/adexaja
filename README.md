@@ -2,7 +2,7 @@
 
 I'm a **Backend Engineer** from Indonesia who enjoys building reliable systems, developer tools, and occasionally things that probably didn't need to become side projects.
 
-I've been writing software for **10+ years**, mostly around backend engineering. These days I work primarily with **TypeScript, Go, and .NET**, while slowly getting deeper into **Rust**.
+I've been writing software for **10+ years**, mostly around backend engineering. These days I work primarily with **TypeScript**, while slowly getting deeper into  **Go** and **Rust**.
 
 Currently, a lot of my work revolves around **blockchain infrastructure and RWA tokenization**.
 
